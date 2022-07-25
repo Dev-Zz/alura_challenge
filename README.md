@@ -4,4 +4,4 @@ Você foi contratado(a) como cientista de dados pela operadora de telecomunicaç
 
 ## 1º Semana
 
-Na primeira semana foi feito a extração dos dados e a limpeza. Para a extração dos dados nos foi disponibilizado um arquivo JSON, usamos o Pandas para ler e organizar esses dados.
+Na primeira semana foi feito a extração dos dados e a limpeza. Para a extração dos dados nos foi disponibilizado um arquivo JSON, usamos o Pandas para ler e organizar esses dados conforme o Notebook: [1 Semana](https://github.com/Dev-Zz/alura_challenge/blob/main/Alura%20Challenge/Alura%20Challenge%20Semana%201.ipynb)
