@@ -1,4 +1,4 @@
-# Alura Challenge Data Science
+# Alura Challenge Data Science 1
 
 Você foi contratado(a) como cientista de dados pela operadora de telecomunicações Alura Voz. Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de se reduzir a Taxa de Evasão de Clientes, conhecido como Churn Rate. Basicamente, o Churn Rate indica o quanto a empresa perdeu de receita ou clientes em um período de tempo.
 
